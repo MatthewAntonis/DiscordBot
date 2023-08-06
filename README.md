@@ -5,11 +5,6 @@
 - Each time a user joins the server they should be added with their join date in the date column. 
 - Each time a user leaves the server, they should be removed from the CSV.
 
-## Approved Libraries: 
-- os
-- python-docx
-- openpyxl
-
 # How to Use: 
 - Create a Bot using this guide by [Discord](https://discordpy.readthedocs.io/en/stable/discord.html)
  - Add the following permissions (some may not be currently in use)...
