@@ -20,7 +20,7 @@ CHANNEL_ID = ???
 
 # Adding new member to the CSV
 def append_to_csv(member_name, join_date):
-    """Utility function to append data to the CSV."""
+    # Utility function to append data to the CSV.
     with open('logon.csv', 'a', newline='') as file:
         writer = csv.writer(file)
         writer.writerow([member_name, join_date])
