@@ -7,7 +7,8 @@
 
 # How to Use: 
 Create a Bot using this guide by [Discord](https://discordpy.readthedocs.io/en/stable/discord.html)
-- Make sure to add the bot pic attached
+- Make sure to add the bot pic attached and name it Capy. To make it a real Capybara experience
+ - Just kidding its only for decoration 
 - Add the following permissions (some may not be currently in use)...
     - Read Messages: So the bot can see messages in channels to listen to commands.
     - Send Messages: This allows the bot to send messages like the hello message when someone joins.
