@@ -97,7 +97,7 @@ async def on_member_join(member):
         print(f"Error while adding {member.name} to CSV: {e}")
 
     # hello message
-    channel = client.get_channel(???) # insert channel id here
+    channel = client.get_channel(CHANNEL_ID) 
     await channel.send(f"Hello, {member.name}!")
 
 @client.event
@@ -111,7 +111,7 @@ async def on_member_remove(member):
         print(f"Error while removing {member.name} from CSV: {e}")
 
     # goodbye message
-    channel = client.get_channel(???) # insert channel id here
+    channel = client.get_channel(CHANNEL_ID)
     await channel.send(f"Goodbye, {member.name}!")
 
 # commands in channel
