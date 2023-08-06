@@ -7,6 +7,7 @@
 
 # How to Use: 
 Create a Bot using this guide by [Discord](https://discordpy.readthedocs.io/en/stable/discord.html)
+- Make sure to add the bot pic attached
 - Add the following permissions (some may not be currently in use)...
     - Read Messages: So the bot can see messages in channels to listen to commands.
     - Send Messages: This allows the bot to send messages like the hello message when someone joins.
@@ -15,7 +16,6 @@ Create a Bot using this guide by [Discord](https://discordpy.readthedocs.io/en/s
     - Read Message History: This might be required for the bot to scan past messages.
     - Access Member List: This permission is necessary to get a list of the members in the on_ready event and other events dealing with members.
     - Monitor Guild's Member Join/Leave: This is necessary to detect when a member joins or leaves the server.
- - Make sure to add the bot pic attached
 
 # How It Looks: 
 <p align="center">
