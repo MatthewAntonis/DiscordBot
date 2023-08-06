@@ -16,7 +16,7 @@
      - Access Member List: This permission is necessary to get a list of the members in the on_ready event and other events dealing with members.
      - Monitor Guild's Member Join/Leave: This is necessary to detect when a member joins or leaves the server.
 
-# In Use Example: 
+# How It Looks: 
 <p align="center">
 <img width="400" src="https://github.com/MatthewAntonis/DiscordBot/assets/122380719/c0d86f3d-b93b-4fe8-b953-2eb08307b3f6">
 <p/>
