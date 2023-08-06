@@ -18,7 +18,7 @@
 
 # In Use Example: 
 <p align="center">
-<img width="200" src="https://github.com/MatthewAntonis/DiscordBot/assets/122380719/c0d86f3d-b93b-4fe8-b953-2eb08307b3f6">
+<img width="400" src="https://github.com/MatthewAntonis/DiscordBot/assets/122380719/c0d86f3d-b93b-4fe8-b953-2eb08307b3f6">
 <p/>
 
 ## Notes: 
